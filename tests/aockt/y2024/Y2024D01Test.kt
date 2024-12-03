@@ -1,6 +1,5 @@
 package aockt.y2024
 
-import aockt.y9999.Y2024D01
 import io.github.jadarma.aockt.test.AdventDay
 import io.github.jadarma.aockt.test.AdventSpec
 

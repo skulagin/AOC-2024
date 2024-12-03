@@ -1,4 +1,4 @@
-package aockt.y9999
+package aockt.y2024
 
 import io.github.jadarma.aockt.core.Solution
 import java.util.PriorityQueue
