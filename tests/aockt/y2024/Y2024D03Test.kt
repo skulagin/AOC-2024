@@ -3,7 +3,7 @@ package aockt.y2024
 import io.github.jadarma.aockt.test.AdventDay
 import io.github.jadarma.aockt.test.AdventSpec
 
-@AdventDay(2024, 3, "Red-Nosed Reports")
+@AdventDay(2024, 3, "Mull It Over")
 class Y2024D03Test : AdventSpec<Y2024D03>({
     partOne {
         listOf("mul(44,46)") shouldAllOutput 2024
